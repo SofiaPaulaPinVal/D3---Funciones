@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;500;700&family=Montserrat:wght@300;700&family=Raleway:ital,wght@0,700;1,100&family=Satisfy&display=swap');
+
+
+.Instrucciones{
+    font-family: 'Raleway', sans-serif;
+    font-size: 700;
+}
+
+ul{
+    padding: 15px;
+}
+
+li{
+    list-style: none;
+    border: solid 1px #eae2b7;
+    margin: 10px;
+    padding: 5px;
+}
+
+#A{
+    background-color: #ff5400;
+}
+
+#S{
+    background-color: #d4a373;
+}
+
+#D{
+    background-color: #ef233c;
+}
+
